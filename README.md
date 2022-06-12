@@ -7,10 +7,8 @@
 </div>
 
 ![Pusheen programming happy](https://i.ibb.co/92FHL4d/pusheencode.gif)
-
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
   
   
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
