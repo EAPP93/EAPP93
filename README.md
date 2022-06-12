@@ -6,6 +6,10 @@
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAPP93&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
+ <img height="400em" src="![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)"/>
+  
+  
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
