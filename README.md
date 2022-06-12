@@ -2,8 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EAPP93&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EAPP93&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAPP93)](https://github.com/anuraghazra/github-readme-stats)<!--
 **EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
