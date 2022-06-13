@@ -10,13 +10,6 @@
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-
-<img height="180em" src="https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif" />  
-![Pusheen programming happy]([https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif](https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif?raw=true))
- ![Pusheen programming happy](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)
-  
-  <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
-  
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
