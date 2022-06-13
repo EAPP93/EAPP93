@@ -10,6 +10,8 @@
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
+
+<img height="180em" src="https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif?raw=true" />  
 ![Pusheen programming happy]([https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif](https://github.com/EAPP93/EAPP93/blob/main/pusheencode.gif?raw=true))
   
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
