@@ -8,7 +8,10 @@
   
 <div align="center">
   <img height="360em" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+<div align="center">
+  <img height="360em" src="" />
 </div>
     
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
