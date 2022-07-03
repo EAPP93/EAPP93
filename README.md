@@ -21,7 +21,7 @@ Contacto
     <img style="max-width: 100%;" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
   
-  <a href"https://eapp93.github.io" rel="nofollow">
+  <a href="https://eapp93.github.io" rel="nofollow" >
     <img style="max-width: 100%;" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png"/>
   </a>
 
