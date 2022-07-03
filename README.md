@@ -14,7 +14,7 @@ Contacto
 ---
 
 <div>
-  <a href="https://github.com/EAPP93" rel="nofollow"  target="_blank">
+  <a href="https://github.com/EAPP93" target="_blank">
     <img style="max-width: 100%;" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github logo" />
   </a>
   <a href="https://www.linkedin.com/in/eapp/" rel="nofollow" target="_blank">
