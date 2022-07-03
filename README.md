@@ -1,8 +1,6 @@
 ### Hola 👋, soy Edwing Picado
 ---
-Soy desarrollador web frontend junior, aunque sigo estudiando para llegar a ser un desarrollador T-shaped 
-
-Actualmente estoy completando los stack MERN PERN y JAM (practicamente terminado XD) 
+Soy desarrollador web frontend junior, aunque sigo estudiando para llegar a ser un desarrollador T-shaped, actualmente estoy completando los stack MERN PERN y JAM (practicamente terminado XD) 
 
 Me apasiona el mundo tecnologico en general ya sea software o hardware, cuando no estoy aprendiendo de programacion probablemente este cacharreando con raspberry y arduino 
 
