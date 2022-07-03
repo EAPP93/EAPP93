@@ -14,8 +14,8 @@ Contacto
 ---
 
 <div>
-  <a hre="https://github.com/EAPP93">
-    <img height="40rem" src="https://img.icons8.com/fluency/48/000000/github.png"/>
+  <a hre="https://github.com/EAPP93" rel="nofollow">
+    <img style="max-width: 100%;" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github logo" />
   </a>
   <img height="40rem" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   <img height="40rem" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png"/>
