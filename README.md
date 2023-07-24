@@ -5,9 +5,7 @@ Soy desarrollador web frontend junior, aunque sigo estudiando para llegar a ser 
 Me apasiona el mundo tecnologico en general ya sea software o hardware, cuando no estoy aprendiendo de programacion probablemente este cacharreando con raspberry y arduino 
 
 Me gustan los videojuegos:video_game:, ver series:tv: / Peliculas:movie_camera: con buena trama 
-<div align="center">
-  <img width="100%"  src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 Contacto
