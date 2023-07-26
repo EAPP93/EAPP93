@@ -1,12 +1,18 @@
 ### Hola 👋, soy Edwing Picado
 ---
-Soy desarrollador web frontend junior, aunque sigo estudiando para llegar a ser un desarrollador T-shaped, actualmente estoy completando los stack MERN PERN y JAM (practicamente terminado XD) 
+Bienvenido(a) a mi perfil de GitHub. Soy un apasionado desarrollador web frontend con un fuerte enfoque en tecnologías como React, y recientemente he estado explorando otros stacks, como MEAN y PEAN, utilizando el poderoso framework Angular. Mi objetivo es evolucionar como desarrollador T-shaped, abarcando diversas áreas para ser un profesional integral en el mundo del desarrollo web.
 
-Me apasiona el mundo tecnologico en general ya sea software o hardware, cuando no estoy aprendiendo de programacion probablemente este cacharreando con raspberry y arduino 
+Además de mi pasión por el desarrollo de software, tengo una variedad de intereses que complementan mi vida como programador. Me encantan los videojuegos 🎮 y disfruto sumergirme en mundos virtuales para desconectar y relajarme. También, me fascina ver series de televisión 📺 y películas 🎥 con buenas tramas.
 
-Me gustan los videojuegos:video_game:, ver series:tv: / Peliculas:movie_camera: con buena trama 
+Fuera de mi trabajo en línea de código, me encanta experimentar con dispositivos como Raspberry Pi y Arduino para ampliar mi comprensión de las tecnologías tanto en el ámbito del software como del hardware. Esta curiosidad me permite encontrar soluciones creativas y llevar mi desarrollo a nuevos horizontes.
 
+En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas aplicaciones hasta proyectos más ambiciosos. Siempre me esfuerzo por mantener un código limpio, bien documentado y aplicar las mejores prácticas en cada proyecto que emprendo.
 
+Estoy siempre dispuesto a aprender y mejorar mis habilidades, por lo que valoro mucho el feedback constructivo y las oportunidades de colaborar en proyectos interesantes con otros desarrolladores. Si compartes intereses similares o tienes algún proyecto en el que creas que puedo contribuir, ¡no dudes en contactarme! Estaré encantado de colaborar y contribuir al éxito de iniciativas emocionantes.
+
+¡Gracias por visitar mi perfil de GitHub y espero que disfrutes explorando mis proyectos!
+
+¡Saludos! 👨‍💻
 
 Contacto
 ---
