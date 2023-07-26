@@ -1,6 +1,6 @@
 ### Hola 👋, soy Edwing Picado
 ---
-Bienvenido(a) a mi perfil de GitHub. Soy un apasionado desarrollador web frontend con un fuerte enfoque en tecnologías como React, y recientemente he estado explorando otros stacks, como MEAN y PEAN, utilizando el poderoso framework Angular. Mi objetivo es evolucionar como desarrollador T-shaped, abarcando diversas áreas para ser un profesional integral en el mundo del desarrollo web.
+Bienvenido(a) a mi perfil de GitHub. Soy un apasionado desarrollador web frontend con un fuerte enfoque en React, y recientemente he estado expandiendo mi conocimiento en el JAMstack con Next.js. Aunque también he explorado Angular, pronto iniciaré mi trayectoria como desarrollador full stack, trabajando con los stacks MERN (MongoDB, Express, React y Node.js) y PERN (PostgreSQL, Express, React y Node.js), para después abordar los stacks PEAN (PostgreSQL, Express, Angular y Node.js) y MEAN (MongoDB, Express, Angular y Node.js). Mi objetivo es evolucionar como desarrollador T-shaped, abarcando diversas áreas para convertirme en un profesional integral en el mundo del desarrollo web.
 
 Además de mi pasión por el desarrollo de software, tengo una variedad de intereses que complementan mi vida como programador. Me encantan los videojuegos 🎮 y disfruto sumergirme en mundos virtuales para desconectar y relajarme. También, me fascina ver series de televisión 📺 y películas 🎥 con buenas tramas.
 
