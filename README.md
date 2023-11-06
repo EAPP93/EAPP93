@@ -35,10 +35,9 @@ Contacto
 Estadisticas
 ---
 
-<section align="center">
-
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=EAPP93&show_icons=true&theme=radical"/>
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAPP93&layout=compact&langs_count=7&theme=radical"/>
+<section >
+  <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=EAPP93&show_icons=true&theme=radical"/>
+  <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAPP93&layout=compact&langs_count=7&theme=radical"/>
 </section>
 
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
