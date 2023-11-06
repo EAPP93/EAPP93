@@ -35,10 +35,16 @@ Contacto
 Estadisticas
 ---
 
-<div align="center">
+<section align="center">
+  <div width="47.5%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eapp93&layout=compact)](https://github.com/eapp93/github-readme-stats)
+  </div>
+<div width="47.5%">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapp93&show_icons=true&theme=radical)
+</div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EAPP93&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAPP93&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</section>
 
 <!--**EAPP93/EAPP93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
